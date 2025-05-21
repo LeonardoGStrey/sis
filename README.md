@@ -34,7 +34,7 @@ Acesse o sistema pelo navegador:
 arduino
 Copiar
 Editar
-http://localhost/seu-projeto/login.php
+http://localhost/sistema/sis/index.php
 Login
 Use o seguinte usuário para acessar:
 
